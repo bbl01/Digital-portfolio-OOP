@@ -19,9 +19,11 @@
 ---
 ### Этап 4. Разработка проекта ⏳
 Данные были сгенерированы через Deep Research в ChatGPT.
+
 [Файлы с данными](https://github.com/bbl01/Digital-portfolio-OOP/tree/main/data)
 
 [Промт](https://github.com/bbl01/Digital-portfolio-OOP/blob/main/promt_data.txt)
+
 ---
 
 ### Этап 5. Защита 💀
