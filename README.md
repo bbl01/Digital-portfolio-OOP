@@ -4,7 +4,7 @@
 ### Этап 1. Согласование проекта ✅
 ---
 ### Этап 2. Генерирование данных ✅
-Данные для анализа были сгенерированы через Deep Research в ChatGPT.
+Данные для анализа были сгенерированы через Deep Research в ChatGPT (Модель - GPT-6).
 
 [Файлы с данными](https://github.com/bbl01/Digital-portfolio-OOP/tree/main/data%20for%20analysis)
 
@@ -18,7 +18,7 @@
 
 ---
 ### Этап 4. Разработка проекта ⏳
-Данные были сгенерированы через Deep Research в ChatGPT.
+Данные были сгенерированы через Deep Research в ChatGPT (Модель - GPT-6).
 
 [Файлы с данными](https://github.com/bbl01/Digital-portfolio-OOP/tree/main/data)
 
