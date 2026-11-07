@@ -5,9 +5,9 @@
 ---
 ### Этап 2. Генерирование данных ✅
 Данные для анализа были сгенерированы через Deep Research в ChatGPT.
-[Файлы с данными](https://github.com/bbl01/Digital-portfolio-OOP/tree/main/data-for-analysis)
+[Файлы с данными](https://github.com/bbl01/Digital-portfolio-OOP/tree/main/data%20for%20analysis)
 
-[Промт](https://github.com/bbl01/Digital-portfolio-OOP/tree/main/data-for-analysis/promt_data_for_analysis.txt)
+[Промт](https://github.com/bbl01/Digital-portfolio-OOP/blob/main/data%20for%20analysis/promt_data_for_analysis.txt)
 
 
 ---
